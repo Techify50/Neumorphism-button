@@ -34,7 +34,7 @@ class _Neumorphic_ButtonState extends State<Neumorphic_Button> {
               ]),
           child: Icon(
             Icons.light_mode_outlined,
-            size: 20,
+            size: 30,
           ),
         ),
       ),
